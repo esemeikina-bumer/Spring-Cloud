@@ -1,0 +1,103 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Default ignored files
+/shelf/
+/workspace.xml
+# ============================================================
+# Maven
+# ============================================================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# ============================================================
+# IntelliJ IDEA
+# ============================================================
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+.idea_modules/
+
+# ============================================================
+# Eclipse / STS
+# ============================================================
+.settings/
+.project
+.classpath
+.factorypath
+.springBeans
+.sts4-cache
+
+# ============================================================
+# NetBeans
+# ============================================================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# ============================================================
+# VS Code
+# ============================================================
+.vscode/
+
+# ============================================================
+# Java
+# ============================================================
+*.class
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+replay_pid*
+
+# ============================================================
+# Логи и временные файлы
+# ============================================================
+logs/
+*.log
+*.tmp
+*.bak
+
+# ============================================================
+# Секреты и локальные настройки
+# ============================================================
+# application-local.properties
+# application-local.yml
+# .env
+
+# ============================================================
+# ОС
+# ============================================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+
